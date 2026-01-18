@@ -1,0 +1,29 @@
+﻿namespace GarageApp.Models.Enums
+{
+    public enum CarChassisType
+    {
+        Sedan,
+        Coupe,
+        Hatchback,
+        Convertible,
+        Touring,
+        Liftback,
+        Fastback,
+        Limousine,
+        Roadster,
+        SUV,
+        Crossover,
+        Offroad,
+        Pickup,
+        Van,
+        Minivan,
+        Panelvan,
+        BoxTruck,
+        ChassisCab,
+        Microcar,
+        CityCar,
+        KeiCar,
+        Camper,
+        Motorhome
+    }
+}
