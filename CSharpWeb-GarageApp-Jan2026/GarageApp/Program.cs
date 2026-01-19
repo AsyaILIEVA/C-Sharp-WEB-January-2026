@@ -1,14 +1,27 @@
+using GarageApp.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace GarageApp
 {
     public class Program
     {
         public static void Main(string[] args)
         {
+            //Registration of user services in DI container
             var builder = WebApplication.CreateBuilder(args);
+            string? connectionString = builder.Configuration
+                .GetConnectionString("DevConnection");
+
+            builder.Services.AddDbContext<GarageAppDbContext> (opt => 
+            {
+                //Here we configure the DbContext the same way as in "OnConfiguring()" method
+                opt.UseSqlServer(connectionString);
+            });
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            //Application configuration
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
