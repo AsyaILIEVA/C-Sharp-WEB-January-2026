@@ -12,7 +12,7 @@ namespace GarageApp
             string? connectionString = builder.Configuration
                 .GetConnectionString("DevConnection");
 
-            builder.Services.AddDbContext<GarageAppDbContext> (opt => 
+            builder.Services.AddDbContext<GarageAppDbContext>(opt =>
             {
                 //Here we configure the DbContext the same way as in "OnConfiguring()" method
                 opt.UseSqlServer(connectionString);
@@ -34,16 +34,16 @@ namespace GarageApp
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();// CSS/JS/IMG
-            app.MapStaticAssets();
+            //app.MapStaticAssets();
 
             app.UseRouting();
 
-            app.UseAuthorization();            
+            app.UseAuthorization();
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}")
-                .WithStaticAssets();
+                pattern: "{controller=Home}/{action=Index}/{id?}");
+                //.WithStaticAssets();
 
             app.Run();
         }
