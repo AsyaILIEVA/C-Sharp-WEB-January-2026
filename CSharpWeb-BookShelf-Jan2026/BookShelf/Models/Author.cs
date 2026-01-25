@@ -1,0 +1,21 @@
+﻿using System.ComponentModel.DataAnnotations;
+using static  BookShelf.Common.EntityValidation;
+
+namespace BookShelf.Models
+{
+    public class Author
+    {
+        [Key]
+        public int Id { get; set; }
+
+        [Required]
+        [MaxLength(AuthorCountryMaxLength)]
+        public string Name { get; set; } = null!;
+
+        [MaxLength(AuthorCountryMaxLength)]
+        public string? Country { get; set; } 
+
+        public virtual ICollection<Book> Books { get; set; }
+            = new HashSet<Book>();
+    }
+}
