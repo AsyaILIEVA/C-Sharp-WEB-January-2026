@@ -1,38 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\",
+  "WorkspaceRootPath": "C:\\Users\\asyai\\OneDrive\\Documents\\GitHub\\C-Sharp-WEB-January-2026\\CSharpWeb-GarageApp-Jan2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|c:\\users\\asyai\\onedrive\\documents\\c_sharp_web\\csharpweb-garageapp-jan2026\\garageapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|c:\\users\\asyai\\onedrive\\documents\\c_sharp_web\\csharpweb-garageapp-jan2026\\garageapp\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|c:\\users\\asyai\\onedrive\\documents\\c_sharp_web\\csharpweb-garageapp-jan2026\\garageapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|c:\\users\\asyai\\onedrive\\documents\\c_sharp_web\\csharpweb-garageapp-jan2026\\garageapp\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Enums\\CarChassisType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|c:\\users\\asyai\\onedrive\\documents\\c_sharp_web\\csharpweb-garageapp-jan2026\\garageapp\\models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Common\\EntityValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|c:\\users\\asyai\\onedrive\\documents\\c_sharp_web\\csharpweb-garageapp-jan2026\\garageapp\\models\\enums\\carchassistype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\models\\enums\\carchassistype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\GarageApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|c:\\users\\asyai\\onedrive\\documents\\c_sharp_web\\csharpweb-garageapp-jan2026\\garageapp\\garageapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\garageapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\ViewModels\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|c:\\users\\asyai\\onedrive\\documents\\c_sharp_web\\csharpweb-garageapp-jan2026\\garageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{282AAB04-54EB-40E9-9C7C-F5EBC4B4667F}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,107 +38,100 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "GarageApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "GarageApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T22:47:00.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T22:47:00.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Garage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Garage.cs",
+              "ToolTip": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Garage.cs",
+              "RelativeToolTip": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Garage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:21:57.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarChassisType.cs",
+              "DocumentMoniker": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Enums\\CarChassisType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Enums\\CarChassisType.cs",
+              "ToolTip": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Enums\\CarChassisType.cs",
+              "RelativeToolTip": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Enums\\CarChassisType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:05:34.108Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Garage.cs",
-              "DocumentMoniker": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Garage.cs",
-              "RelativeDocumentMoniker": "GarageApp\\Models\\Garage.cs",
-              "ToolTip": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Garage.cs",
-              "RelativeToolTip": "GarageApp\\Models\\Garage.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T16:21:57.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CarChassisType.cs",
-              "DocumentMoniker": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Enums\\CarChassisType.cs",
-              "RelativeDocumentMoniker": "GarageApp\\Models\\Enums\\CarChassisType.cs",
-              "ToolTip": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Enums\\CarChassisType.cs",
-              "RelativeToolTip": "GarageApp\\Models\\Enums\\CarChassisType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T16:05:34.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "EntityValidation.cs",
               "DocumentMoniker": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Common\\EntityValidation.cs",
-              "RelativeDocumentMoniker": "GarageApp\\Common\\EntityValidation.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Common\\EntityValidation.cs",
               "ToolTip": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Common\\EntityValidation.cs",
-              "RelativeToolTip": "GarageApp\\Common\\EntityValidation.cs",
+              "RelativeToolTip": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Common\\EntityValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T15:46:05.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T15:46:05.068Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "GarageApp\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Car.cs",
               "ToolTip": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Car.cs",
-              "RelativeToolTip": "GarageApp\\Models\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA7AAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T15:35:27.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GarageApp",
+              "DocumentIndex": 5,
+              "Title": "GarageApp.csproj",
               "DocumentMoniker": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\GarageApp.csproj",
-              "RelativeDocumentMoniker": "GarageApp\\GarageApp.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\GarageApp.csproj",
               "ToolTip": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\GarageApp.csproj",
-              "RelativeToolTip": "GarageApp\\GarageApp.csproj",
+              "RelativeToolTip": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\GarageApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-18T15:04:33.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T15:04:33.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\ViewModels\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "GarageApp\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\ViewModels\\ErrorViewModel.cs",
               "ToolTip": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\ViewModels\\ErrorViewModel.cs",
-              "RelativeToolTip": "GarageApp\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\ViewModels\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T15:02:53.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T15:02:53.847Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Program.cs",
-              "RelativeDocumentMoniker": "GarageApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Program.cs",
               "ToolTip": "C:\\Users\\asyai\\OneDrive\\Documents\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Program.cs",
-              "RelativeToolTip": "GarageApp\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\C_Sharp_WEB\\CSharpWeb-GarageApp-Jan2026\\GarageApp\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:59:07.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T14:59:07.334Z"
             }
           ]
         }
