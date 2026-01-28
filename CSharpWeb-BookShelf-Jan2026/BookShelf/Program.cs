@@ -9,18 +9,8 @@ namespace BookShelf
         {
             WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
             string? connectionString = builder.Configuration
-<<<<<<< HEAD:CSharpWeb-BookShelf-Jan2026/BookShelf/Program.cs
                 .GetConnectionString("SqlServerDevConnection");
             builder.Configuration.GetValue<bool>("MyCustomSetting");
-=======
-                .GetConnectionString("DevConnection");
-
-            builder.Services.AddDbContext<GarageAppDbContext>(opt =>
-            {
-                //Here we configure the DbContext the same way as in "OnConfiguring()" method
-                opt.UseSqlServer(connectionString);
-            });
->>>>>>> 78b2418cb5d941cdd55ba6d58961a797ce9e6e00:CSharpWeb-GarageApp-Jan2026/GarageApp/Program.cs
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
@@ -42,12 +32,6 @@ namespace BookShelf
             }
 
             app.UseHttpsRedirection();
-<<<<<<< HEAD:CSharpWeb-BookShelf-Jan2026/BookShelf/Program.cs
-=======
-            app.UseStaticFiles();// CSS/JS/IMG
-            //app.MapStaticAssets();
-
->>>>>>> 78b2418cb5d941cdd55ba6d58961a797ce9e6e00:CSharpWeb-GarageApp-Jan2026/GarageApp/Program.cs
             app.UseRouting();
 
             app.UseAuthorization();
@@ -55,8 +39,8 @@ namespace BookShelf
             app.MapStaticAssets();
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
-                //.WithStaticAssets();
+                pattern: "{controller=Home}/{action=Index}/{id?}")
+                .WithStaticAssets();
 
             app.Run();
         }
