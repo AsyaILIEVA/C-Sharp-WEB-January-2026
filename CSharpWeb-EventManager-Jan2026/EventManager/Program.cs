@@ -1,3 +1,6 @@
+using EventManager.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace EventManager
 {
     public class Program
