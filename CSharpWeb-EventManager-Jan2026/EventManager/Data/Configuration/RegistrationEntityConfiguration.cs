@@ -27,7 +27,7 @@ namespace EventManager.Data.Configuration
                 Id = 3,
                 ParticipantName = "Carla Merini",
                 Email = "carol@yahoo.com",
-                EventId = 3
+                EventId = 1
             }
         };
 

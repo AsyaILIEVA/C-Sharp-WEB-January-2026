@@ -19,6 +19,8 @@ namespace EventManager
                 opt.UseSqlServer(connectionString);
             });
 
+            builder.Services.AddValidation();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -39,6 +41,8 @@ namespace EventManager
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}")
                 .WithStaticAssets();
+
+
 
             app.Run();
         }
